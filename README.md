@@ -28,7 +28,7 @@ by user to define the scheduling, routing, resource allocation, and application'
 deployment in the created topology.
 In addition to those six classes, one important class is used which is the dis-
 tribution class. This class is essential to allow customized distribution among
-messages. Some of the distribution methods dened in this class are determin-
+messages. Some of the distribution methods defined in this class are determin-
 istic distribution, uniform distribution, and most importantly the exponential
 distribution.
 After defining the topology, the application with its messages and deployment,
